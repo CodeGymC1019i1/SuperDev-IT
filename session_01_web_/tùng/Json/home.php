@@ -1,5 +1,6 @@
 <?php
     include_once "function.php";
+    include_once "delete.php";
     $user = readFileJSON("listUser.json");
 ?>
 
@@ -10,7 +11,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
-    <link rel="stylesheet" href="css/main.css">
     <title>Home</title>
 </head>
 <body>
@@ -26,14 +26,28 @@
                             <th> <?php echo $key; ?> </th>
                             <th> <?php echo $user[$key]['username']; ?> </th>
                             <th> <?php echo $user[$key]['password']; ?> </th>
-                            <th> <a href="" class="lnkXoa"> Xoá </a></th>
-                            <th> <a href="" class="lnkSua"> Sửa </a></th>
+                            <th> <a href="" onclick="<?php deleteUser($user, $key, "listUser.json");?>"> Xoá </a></th>
+                            <th> <a href=""> Sửa </a></th>
                         </tr>
                 <?php } ?>
             </table>
         </div>
 
-   
+    <?php 
+         if ($_SERVER['REQUEST_METHOD'] === 'POST') {
+            $username = $_POST['username'];
+            $passwordd = $_POST['password'];
+            $user = [
+                    "username" => $username,
+                    "password" => $passwordd
+            ];
+            $fileData = "listUser.json";
+            $arrUser = readFileJson($fileData);
+            array_push($arrUser, $user);
+            saveDataToFile($fileData, $arrUser);
+            
+        }
+    ?>
 </body>
 </html>
 
