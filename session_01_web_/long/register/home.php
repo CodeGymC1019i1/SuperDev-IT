@@ -15,17 +15,11 @@
     <?php
         $link ="data.json";
         include "process.php";
+        include "delete.php";
         $array = readFileJSON($link);
         //echo $array[1]['username']; //username
         //echo $array[1]['password']; //password
     ?>
-    <script>
-        function deleteUser(id)
-        {
-            alert('ABC');
-            //$.get(url:/detete/id);
-        }
-    </script>
 
     <div class="w3-container">
         <table class="w3-table-all w3-centered">
@@ -36,17 +30,16 @@
                 <th>Delete</th>
                 <th>Edit</th>
             </tr>
-            <?php
-                foreach($array as $key => $value) {
-                    echo '<tr>';
-                    echo '<th>'.$key.'</th>';
-                    echo '<th>'.$array[$key]['username'].'</th>';
-                    echo '<th>'.$array[$key]['password'].'</th>';
-                    echo "<th><button onclick='deleteUser($key)'>Del</button></th>";
-                    echo '<th>Edit</th>';
-                    echo '</tr>';
-                }
-            ?>
+
+            <?php foreach($array as $key => $value){ ?>
+                <tr>
+                    <th><?= $key ?></th>
+                    <th><?= $array[$key]['username']?></th>
+                    <th><?= $array[$key]['password']?></th>
+                    <th><a href="" onclick="<?php deleteUser($array, $key, $link);?>">Delete</a></th>
+                    <th><a href="">Edit</a></th>
+                </tr>
+            <?php }?>
         </table>
     </div>
 </body>

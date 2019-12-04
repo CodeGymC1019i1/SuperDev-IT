@@ -1,9 +1,5 @@
 <?php
-    //hàm xử lý trong php
-    // hàm xóa username, password trong php
-    function deleteUser($index) {
 
-    }
 
     // hàm sua username, password trong php
     function editUser() {
