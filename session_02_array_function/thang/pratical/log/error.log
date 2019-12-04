@@ -1,0 +1,4 @@
+[Wed Dec 04 00:08:05.216256 2019] [mpm_prefork:notice] [pid 1145] AH00163: Apache/2.4.29 (Ubuntu) configured -- resuming normal operations
+[Wed Dec 04 00:08:05.216285 2019] [core:notice] [pid 1145] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Dec 04 00:18:44.853264 2019] [php7:notice] [pid 11965] [client ::1:43552] PHP Notice:  Undefined index: profile in /var/www/html/SuperDev-IT/session_02_array_/thang/pratical/Customer_List.php on line 71, referer: http://localhost/SuperDev-IT/session_02_array_/thang/pratical/
+[Wed Dec 04 00:18:44.853307 2019] [php7:notice] [pid 11965] [client ::1:43552] PHP Notice:  Undefined index: profile in /var/www/html/SuperDev-IT/session_02_array_/thang/pratical/Customer_List.php on line 71, referer: http://localhost/SuperDev-IT/session_02_array_/thang/pratical/
