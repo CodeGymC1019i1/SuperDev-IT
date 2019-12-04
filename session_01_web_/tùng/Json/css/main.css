@@ -1,0 +1,23 @@
+a
+{
+	padding:1px 8px;
+	color:#000;
+	text-decoration:none;
+	
+	display:inline-block;
+}
+a:hover, a:focus
+{
+	cursor:pointer;
+	outline:1px dotted #000;
+}
+.lnkXoa
+{
+	color:rgb(217, 23, 29);
+	font-weight:bold;
+}
+.lnkSua
+{
+    font-weight:bold;
+    color: #3366FF;
+}
