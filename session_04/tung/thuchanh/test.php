@@ -1,24 +1,26 @@
 <?php
-class Application {
-    private $name;
-    public static $count = 0;
-
-    public function __construct($name)
-    {
-        $this->name = $name;
-        self::$count++;
+function maxMinAvg($arr) {
+    $max = $arr[0];
+    $min = $arr[0];
+    $sum = 0;
+    $arrNew = [];
+    
+    for ($i=0 ; $i<count($arr); $i++ ) {
+        if($arr[$i] > $max) {
+            $max = $arr[$i];
+            array_push($arrNew, $max);
+        }
+        
+    for ($i=0 ; $i<count($arr); $i++ ) {
+        if($arr[$i] < $min) {
+            $min = $arr[$i];
+            array_push($arrNew, $min);
+        }
+    for ($i=0 ; $i<count($arr); $i++ ) {
+        $sum += $arr[$i];
     }
+    $avg = $sum / count($arr);
+    array_push($arrNew, $avg);
 
-    public function __toString()
-    {
-        return 'Application name: '. $this->name;
-    }
+    return $arrNew; 
 }
-
-echo "Total objects count: ". Application::$count ."<br/>";
-$app1 = new Application('App One');
-echo "Total objects count: ". Application::$count ."<br/>";
-$app2 = new Application('App Two');
-echo "Total objects count: ". Application::$count ."<br/>";
-echo $app1 .'<br/>';
-echo $app2 .'<br/>';
