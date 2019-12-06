@@ -1,22 +1,4 @@
-<?php
-    include_once "function.php";
-    var_dump(readFileJson("listUser.json"));
-?>
 
-<?php
-if ($_SERVER['REQUEST_METHOD'] === 'POST') {
-    $username = $_POST['username'];
-    $passwordd = $_POST['password'];
-    $user = [
-            'username' => $username,
-            'password' => $passwordd
-    ];
-    $fileData = "listUser.json";
-    $arrUser = readFileJson($fileData);
-    array_push($arrUser, $user);
-    saveDataToFile($fileData, $arrUser);
-}
-?>
 
 <!DOCTYPE html>
 <html lang="en">

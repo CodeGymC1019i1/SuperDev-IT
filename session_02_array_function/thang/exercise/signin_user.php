@@ -1,5 +1,5 @@
 <!DOCTYPE HTML>
-<html>
+<html lang="en">
 <style type="text/css">
     .login {
         height:80px; width:200px;
