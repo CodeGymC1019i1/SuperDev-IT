@@ -1,4 +1,23 @@
-s
+<?php
+include_once "function.php";
+var_dump(readFileJson("listUser.json"));
+
+?>
+
+<?php
+if ($_SERVER['REQUEST_METHOD'] === 'POST') {
+    $username = $_POST['username'];
+    $password = $_POST['password'];
+    $user = [
+        'username' => $username,
+        'password' => $password
+    ];
+    $fileData = "listUser.json";
+    $arrUser = readFileJson($fileData);
+    array_push($arrUser, $user);
+    saveDataToFile($fileData, $arrUser);
+}
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -10,7 +29,7 @@ s
     <title>Document</title>
 </head>
 <body>
-    <form class="box" action="listUser.php" method="POST">
+    <form class="box"  method="POST">
         <h1>Login</h1>
         <input type="text" name="username" id="username" placeholder="Username" maxlength="30">
         <input type="password" name="password" id="password" placeholder="Password" maxlength="30">

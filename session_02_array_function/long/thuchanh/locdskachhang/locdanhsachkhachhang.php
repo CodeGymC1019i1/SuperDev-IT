@@ -35,7 +35,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $to_date = $_POST["to"];
 }
 $filtered_customers =
-    searchByDate
+searchByDate
     ($customer_list, $from_date, $to_date);
 ?>
 
