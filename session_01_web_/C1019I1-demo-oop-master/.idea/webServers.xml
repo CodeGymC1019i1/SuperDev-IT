@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="b04f19a8-2163-48e4-a86c-5aea0d23357c" name="http://localhost/SuperDev-IT/C1019I1-demo-oop-master/" url="http://localhost/SuperDev-IT/C1019I1-demo-oop-master/">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</project>
