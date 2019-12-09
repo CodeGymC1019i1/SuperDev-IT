@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="00974451-ae6e-405f-9005-9c647a35acd9" name="http://localhost/SuperDev-IT/session_05/Long/" url="http://localhost/SuperDev-IT/session_05/Long/">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</project>
