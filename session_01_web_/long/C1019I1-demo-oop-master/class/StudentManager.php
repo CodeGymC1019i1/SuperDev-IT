@@ -1,6 +1,4 @@
 <?php
-namespace Controller;
-
 class StudentManager
 {
     public $pathFile;
@@ -43,7 +41,7 @@ class StudentManager
         try {
             $dataJson = json_encode($students);
             file_put_contents($this->pathFile, $dataJson);
-        } catch (\Exception $e) {
+        } catch (Exception $e) {
             echo $e->getMessage();
         }
     }

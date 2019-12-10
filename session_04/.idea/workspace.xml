@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5772c5de-3dd7-4847-b669-471fb2794491" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../CRUD/Long/DemoStudent/PROCESS/Delete.php" beforeDir="false" afterPath="$PROJECT_DIR$/../CRUD/Long/DemoStudent/PROCESS/Delete.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session_01_web_/LongDemo/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session_01_web_/LongDemo/.idea/LongDemo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session_01_web_/LongDemo/.idea/deployment.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session_01_web_/LongDemo/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session_01_web_/LongDemo/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session_01_web_/LongDemo/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session_01_web_/LongDemo/.idea/webServers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session_01_web_/LongDemo/class/manageStudent.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session_01_web_/LongDemo/class/student.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session_01_web_/LongDemo/data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session_01_web_/LongDemo/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session_01_web_/LongDemo/src/add.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session_01_web_/long/C1019I1-demo-oop-master/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../session_01_web_/long/C1019I1-demo-oop-master/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session_01_web_/long/C1019I1-demo-oop-master/class/Student.php" beforeDir="false" afterPath="$PROJECT_DIR$/../session_01_web_/long/C1019I1-demo-oop-master/class/Student.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session_01_web_/long/C1019I1-demo-oop-master/class/StudentManager.php" beforeDir="false" afterPath="$PROJECT_DIR$/../session_01_web_/long/C1019I1-demo-oop-master/class/StudentManager.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session_01_web_/long/C1019I1-demo-oop-master/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../session_01_web_/long/C1019I1-demo-oop-master/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session_01_web_/long/C1019I1-demo-oop-master/src/add.php" beforeDir="false" afterPath="$PROJECT_DIR$/../session_01_web_/long/C1019I1-demo-oop-master/src/add.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session_01_web_/long/C1019I1-demo-oop-master/src/delete.php" beforeDir="false" afterPath="$PROJECT_DIR$/../session_01_web_/long/C1019I1-demo-oop-master/src/delete.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session_01_web_/long/Demo/class/Manager.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session_01_web_/long/Demo/class/Student.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session_01_web_/long/Demo/data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session_01_web_/long/Demo/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session_01_web_/long/Demo/src/add.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session_01_web_/long/Json/data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session_01_web_/long/LongDemo/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session_01_web_/long/LongDemo/.idea/LongDemo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session_01_web_/long/LongDemo/.idea/deployment.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session_01_web_/long/LongDemo/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session_01_web_/long/LongDemo/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session_01_web_/long/LongDemo/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session_01_web_/long/LongDemo/.idea/webServers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session_01_web_/long/LongDemo/class/manageStudent.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session_01_web_/long/LongDemo/class/student.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session_01_web_/long/LongDemo/data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session_01_web_/long/LongDemo/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session_01_web_/long/LongDemo/src/add.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session_01_web_/long/register/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session_01_web_/long/register/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session_01_web_/long/register/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session_01_web_/long/register/.idea/register.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session_01_web_/long/register/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session_01_web_/long/register/data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session_01_web_/long/register/delete.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session_01_web_/long/register/home.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session_01_web_/long/register/login.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session_01_web_/long/register/process.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session_01_web_/long/register/register.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session_01_web_/long/train/data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session_01_web_/long/train/process.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session_01_web_/long/train/registry.php" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1UjHczDlipseGT38Cu2jC3AruH7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5772c5de-3dd7-4847-b669-471fb2794491" name="Default Changelist" comment="" />
+      <created>1575863167677</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575863167677</updated>
+      <workItem from="1575863168990" duration="81000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="577" y="174" width="424" height="509" key="FileChooserDialogImpl" timestamp="1575863247237">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="577" y="174" width="424" height="509" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1575863247237" />
+  </component>
+</project>

@@ -2,7 +2,7 @@
 include_once "class/Student.php";
 include_once "class/StudentManager.php";
 
-$studentManager = new \Controller\StudentManager("data.json");
+$studentManager = new StudentManager("data.json");
 $students = $studentManager->getList();
 ?>
 
