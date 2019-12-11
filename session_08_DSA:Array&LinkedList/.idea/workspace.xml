@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3b22a9b1-5d9e-4441-bc48-2fad99034057" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../sesion_07_Clean Code &amp; Refactoring/.idea/sesion_07_Clean Code &amp; Refactoring.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/session_08_DSAArray&amp;LinkedList.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/webServers.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/long/thuchanh/ArayClass/ArrayList.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/long/thuchanh/ArayClass/ArrayListTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/long/thuchanh/LinkList/LinkList.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/long/thuchanh/LinkList/Node.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sesion_07_Clean Code &amp; Refactoring/long/baitap/Tennis/php-cleancode-refactoring-exercise" beforeDir="false" afterPath="$PROJECT_DIR$/../sesion_07_Clean Code &amp; Refactoring/long/baitap/Tennis/php-cleancode-refactoring-exercise" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sesion_07_Clean Code &amp; Refactoring/long/thuchanh/Refactoring_TachBien/php-cleancode-refactoring-variable-extraction" beforeDir="false" afterPath="$PROJECT_DIR$/../sesion_07_Clean Code &amp; Refactoring/long/thuchanh/Refactoring_TachBien/php-cleancode-refactoring-variable-extraction" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session_05/Long/baitap/Colorable/Circle.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session_05/Long/baitap/Colorable/Colorable.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session_05/Long/baitap/Colorable/Rectangle.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session_05/Long/baitap/Colorable/Square.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session_05/Long/baitap/Colorable/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session_05/Long/baitap/Resizeable/Circle.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session_05/Long/baitap/Resizeable/Rectangle.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session_05/Long/baitap/Resizeable/Resizeable.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session_05/Long/baitap/Resizeable/Square.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session_05/Long/baitap/Resizeable/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session_05/Long/thuchanh/Comparable/Circle.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session_05/Long/thuchanh/Comparable/ComparableCircle.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session_05/Long/thuchanh/Comparable/ComparableCircleMain.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session_05/Long/thuchanh/Comparable/interface Comparable/Comparable.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session_05/Long/thuchanh/interface-Comparator.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session_05/Long/thuchanh/php-abstract-animal-interface-edible/AbstractAndInterfaceTests.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session_05/Long/thuchanh/php-abstract-animal-interface-edible/AbstractClass/Animal.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session_05/Long/thuchanh/php-abstract-animal-interface-edible/AbstractClass/Fruit.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session_05/Long/thuchanh/php-abstract-animal-interface-edible/Animals/Chicken.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session_05/Long/thuchanh/php-abstract-animal-interface-edible/Animals/Tiger.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session_05/Long/thuchanh/php-abstract-animal-interface-edible/Fruits/Apple.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session_05/Long/thuchanh/php-abstract-animal-interface-edible/Fruits/Orange.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session_05/Long/thuchanh/php-abstract-animal-interface-edible/InterfaceClass/Edible.php" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1Up00tSFslDKumWRiunltvoVaZe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="web.server" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/long/thuchanh/LinkList" />
+      <recent name="$PROJECT_DIR$/long/thuchanh/ArayClass" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3b22a9b1-5d9e-4441-bc48-2fad99034057" name="Default Changelist" comment="" />
+      <created>1576038009154</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576038009154</updated>
+      <workItem from="1576038011596" duration="8448000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="151" y="0" width="476" height="858" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1576055435301">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="151" y="0" width="476" height="858" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1600.860@0.0.1600.860" timestamp="1576055435301" />
+    <state x="461" y="249" width="730" height="359" key="NewPhpClassDialog" timestamp="1576055447654">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="461" y="249" width="730" height="359" key="NewPhpClassDialog/0.0.1600.860@0.0.1600.860" timestamp="1576055447654" />
+    <state x="618" y="356" width="354" height="145" key="NewPhpFileDialog" timestamp="1576053471176">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="618" y="356" width="354" height="145" key="NewPhpFileDialog/0.0.1600.860@0.0.1600.860" timestamp="1576053471176" />
+    <state x="304" y="65" key="SettingsEditor" timestamp="1576053661646">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="304" y="65" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1576053661646" />
+  </component>
+</project>
