@@ -2,19 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3b22a9b1-5d9e-4441-bc48-2fad99034057" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../sesion_07_Clean Code &amp; Refactoring/.idea/sesion_07_Clean Code &amp; Refactoring.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/session_08_DSAArray&amp;LinkedList.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/webServers.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/long/thuchanh/ArayClass/ArrayList.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/long/thuchanh/ArayClass/ArrayListTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/long/thuchanh/LinkList/LinkList.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/long/thuchanh/LinkList/Node.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sesion_07_Clean Code &amp; Refactoring/long/baitap/Tennis/php-cleancode-refactoring-exercise" beforeDir="false" afterPath="$PROJECT_DIR$/../sesion_07_Clean Code &amp; Refactoring/long/baitap/Tennis/php-cleancode-refactoring-exercise" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/long/baitap/ArrayList.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../sesion_07_Clean Code &amp; Refactoring/long/thuchanh/Refactoring_TachBien/php-cleancode-refactoring-variable-extraction" beforeDir="false" afterPath="$PROJECT_DIR$/../sesion_07_Clean Code &amp; Refactoring/long/thuchanh/Refactoring_TachBien/php-cleancode-refactoring-variable-extraction" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../session_05/Long/baitap/Colorable/Circle.php" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../session_05/Long/baitap/Colorable/Colorable.php" beforeDir="false" />
@@ -39,6 +27,7 @@
       <change beforePath="$PROJECT_DIR$/../session_05/Long/thuchanh/php-abstract-animal-interface-edible/Fruits/Apple.php" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../session_05/Long/thuchanh/php-abstract-animal-interface-edible/Fruits/Orange.php" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../session_05/Long/thuchanh/php-abstract-animal-interface-edible/InterfaceClass/Edible.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +40,7 @@
     </execution>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/long/ArrayListDemo/php-arrayList" />
   </component>
   <component name="ProjectId" id="1Up00tSFslDKumWRiunltvoVaZe" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -62,7 +51,6 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="web.server" />
   </component>
@@ -71,6 +59,17 @@
       <recent name="$PROJECT_DIR$/long/thuchanh/LinkList" />
       <recent name="$PROJECT_DIR$/long/thuchanh/ArayClass" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="php-arrayList" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner directory="$PROJECT_DIR$/long/ArrayListDemo/php-arrayList" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHPUnit.php-arrayList" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -94,7 +93,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1576038009154</updated>
-      <workItem from="1576038011596" duration="8448000" />
+      <workItem from="1576038011596" duration="8945000" />
+      <workItem from="1576114096838" duration="4498000" />
     </task>
     <servers />
   </component>
@@ -106,17 +106,25 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="151" y="0" width="476" height="858" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1600.860@0.0.1600.860" timestamp="1576055435301" />
-    <state x="461" y="249" width="730" height="359" key="NewPhpClassDialog" timestamp="1576055447654">
+    <state x="0" y="140" width="674" height="718" key="#php-arrayList" timestamp="1576119092622">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="461" y="249" width="730" height="359" key="NewPhpClassDialog/0.0.1600.860@0.0.1600.860" timestamp="1576055447654" />
-    <state x="618" y="356" width="354" height="145" key="NewPhpFileDialog" timestamp="1576053471176">
+    <state x="0" y="140" width="674" height="718" key="#php-arrayList/0.0.1600.860@0.0.1600.860" timestamp="1576119092622" />
+    <state x="461" y="249" width="730" height="359" key="NewPhpClassDialog" timestamp="1576114347430">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="618" y="356" width="354" height="145" key="NewPhpFileDialog/0.0.1600.860@0.0.1600.860" timestamp="1576053471176" />
+    <state x="461" y="249" width="730" height="359" key="NewPhpClassDialog/0.0.1600.860@0.0.1600.860" timestamp="1576114347430" />
+    <state x="618" y="356" width="354" height="145" key="NewPhpFileDialog" timestamp="1576114291530">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="618" y="356" width="354" height="145" key="NewPhpFileDialog/0.0.1600.860@0.0.1600.860" timestamp="1576114291530" />
     <state x="304" y="65" key="SettingsEditor" timestamp="1576053661646">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="304" y="65" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1576053661646" />
+    <state x="58" y="192" key="run.anything.popup" timestamp="1576118207675">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="58" y="192" key="run.anything.popup/0.0.1600.860@0.0.1600.860" timestamp="1576118207675" />
   </component>
 </project>
