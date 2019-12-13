@@ -1,7 +1,7 @@
 <?php
 
-include_once "Abstract/Animal.php";
-include_once "Interface/Edible.php";
+include_once "../Abstract/Animal.php";
+include_once "../Interface/Edible.php";
 
 class Chicken extends Animal implements Edible
 {

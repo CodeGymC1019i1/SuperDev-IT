@@ -1,7 +1,7 @@
 <?php
 
 
-class Shape
+abstract class Shape
 {
     public $name;
 

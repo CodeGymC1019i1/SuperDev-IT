@@ -1,7 +1,7 @@
 <?php
 
 include_once "Shape.php";
-include_once "Interface/Resizeable.php";
+include_once "../Interface/Resizeable.php";
 
 
 class Rectangle extends Shape implements Resizeable
