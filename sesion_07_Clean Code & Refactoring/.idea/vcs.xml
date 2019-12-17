@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/long/baitap/Tennis/php-cleancode-refactoring-exercise" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/long/thuchanh/Refactoring-01/php-cleancode-refactoring-renaming" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/long/thuchanh/Refactoring-Tachphuongthuc/php-cleancode-refactoring-method-extraction" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/long/thuchanh/Refactoring-demo-01/php-cleancode-refactoring-renaming" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/long/thuchanh/Refactoring_TachBien/php-cleancode-refactoring-variable-extraction" vcs="Git" />
+  </component>
+</project>

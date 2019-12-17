@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="1296f9ec-d8c9-49db-83f1-e98a22c5d9c6" name="http://localhost/SuperDev-IT/Session_10._PHP%20Datastructures/" url="http://localhost/SuperDev-IT/Session_10._PHP%20Datastructures/Long">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</project>

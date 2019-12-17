@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3b22a9b1-5d9e-4441-bc48-2fad99034057" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/long/baitap/ArrayList.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/long/baitap/LinkedList/LinkList.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/long/baitap/LinkedList/Node.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../session_09_Stack,Queue,Tree/long/thuchanh/Queue.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../sesion_07_Clean Code &amp; Refactoring/long/thuchanh/Refactoring_TachBien/php-cleancode-refactoring-variable-extraction" beforeDir="false" afterPath="$PROJECT_DIR$/../sesion_07_Clean Code &amp; Refactoring/long/thuchanh/Refactoring_TachBien/php-cleancode-refactoring-variable-extraction" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../session_05/Long/baitap/Colorable/Circle.php" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../session_05/Long/baitap/Colorable/Colorable.php" beforeDir="false" />
@@ -40,7 +42,7 @@
     </execution>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/long/ArrayListDemo/php-arrayList" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1Up00tSFslDKumWRiunltvoVaZe" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -56,6 +58,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/long/baitap/LinkedList" />
       <recent name="$PROJECT_DIR$/long/thuchanh/LinkList" />
       <recent name="$PROJECT_DIR$/long/thuchanh/ArayClass" />
     </key>
@@ -94,7 +97,9 @@
       <option name="presentableId" value="Default" />
       <updated>1576038009154</updated>
       <workItem from="1576038011596" duration="8945000" />
-      <workItem from="1576114096838" duration="4498000" />
+      <workItem from="1576114096838" duration="5572000" />
+      <workItem from="1576202622069" duration="8925000" />
+      <workItem from="1576460085723" duration="629000" />
     </task>
     <servers />
   </component>
@@ -110,14 +115,18 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="0" y="140" width="674" height="718" key="#php-arrayList/0.0.1600.860@0.0.1600.860" timestamp="1576119092622" />
+    <state x="577" y="174" width="424" height="509" key="FileChooserDialogImpl" timestamp="1576460989814">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="577" y="174" width="424" height="509" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1576460989814" />
     <state x="461" y="249" width="730" height="359" key="NewPhpClassDialog" timestamp="1576114347430">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="461" y="249" width="730" height="359" key="NewPhpClassDialog/0.0.1600.860@0.0.1600.860" timestamp="1576114347430" />
-    <state x="618" y="356" width="354" height="145" key="NewPhpFileDialog" timestamp="1576114291530">
+    <state x="618" y="356" width="354" height="145" key="NewPhpFileDialog" timestamp="1576203246936">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="618" y="356" width="354" height="145" key="NewPhpFileDialog/0.0.1600.860@0.0.1600.860" timestamp="1576114291530" />
+    <state x="618" y="356" width="354" height="145" key="NewPhpFileDialog/0.0.1600.860@0.0.1600.860" timestamp="1576203246936" />
     <state x="304" y="65" key="SettingsEditor" timestamp="1576053661646">
       <screen x="0" y="0" width="1600" height="860" />
     </state>

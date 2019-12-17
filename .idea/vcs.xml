@@ -2,5 +2,12 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sesion_07_Clean Code &amp; Refactoring/long/baitap/Tennis/php-cleancode-refactoring-exercise" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sesion_07_Clean Code &amp; Refactoring/long/thuchanh/Refactoring-Tachphuongthuc/php-cleancode-refactoring-method-extraction" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sesion_07_Clean Code &amp; Refactoring/long/thuchanh/Refactoring-demo-01/php-cleancode-refactoring-renaming" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sesion_07_Clean Code &amp; Refactoring/long/thuchanh/Refactoring_TachBien/php-cleancode-refactoring-variable-extraction" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/session_06_interface_abstrack/Long/thuchanh/php-abstract-animal-interface-edible" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/session_08_DSA:Array&amp;LinkedList/long/ArrayListDemo/php-arrayList" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/session_08_DSA:Array&amp;LinkedList/long/LinkListDemo/php-linkedlist" vcs="Git" />
   </component>
 </project>
