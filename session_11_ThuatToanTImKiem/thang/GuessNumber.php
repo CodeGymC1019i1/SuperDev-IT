@@ -10,13 +10,11 @@ function GuessNumber($number)
         if ($numbermt < $number) {
             $min = $numbermt + 1;
             $numbermt = floor(rand($min, $max));
-            var_dump($numbermt);
             echo "<br>";
             $count++;
         } else if ($numbermt > $number) {
             $max = $numbermt - 1;
             $numbermt = floor(rand($min, $max));
-            var_dump($numbermt);
             echo "<br>";
             $count++;
         } else {
